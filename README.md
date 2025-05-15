@@ -141,3 +141,7 @@ These FAQs cover common concerns, ensuring users have all the information needed
 ## Conclusion
 Hostinger stands out as a reliable, affordable, and user-friendly web hosting solution, perfect for anyone looking to build or manage a website. With features like free domain, 24/7 support, and one-click WordPress installs, it addresses common hosting challenges effectively. The 30-day money-back guarantee allows risk-free testing, while coupon codes can save up to 90% on plans, making it even more accessible. Don’t miss out—check [Hostinger Coupons](https://afftrend.com/hostinger) for the latest deals and start your online journey today with confidence.
 
+## 📚 Resources
+- [ElevenLabs Coupons](https://github.com/affloud/elevenlabs-coupons)
+- [Teachable Coupons](https://github.com/affloud/teachable-coupons)
+- [Manychat Coupons](https://github.com/affloud/manychat-coupons)

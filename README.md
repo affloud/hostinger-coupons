@@ -1,4 +1,4 @@
-# Hostinger Coupon Codes, Free Trial and Discount Offers 2025
+# Hostinger Coupon Codes, Free Trial & Discount 2025
 
 Hostinger is a leading web hosting provider that empowers individuals and businesses to establish and maintain their online presence with ease. Founded in 2004 and headquartered in Kaunas, Lithuania, Hostinger has grown to serve over 3 million customers worldwide. Known for its affordable pricing, reliable performance, and user-friendly interface, it caters to beginners, small businesses, bloggers, and developers alike, making it a go-to choice for anyone looking to build a website.
 

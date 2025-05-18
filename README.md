@@ -8,7 +8,7 @@ Hostinger is a leading web hosting provider that empowers individuals and busine
 
 ## Hostinger Overview
 
-Hostinger offers a comprehensive suite of web hosting solutions, including shared hosting, WordPress hosting, cloud hosting, and more. Its services are designed to be accessible and efficient, with a focus on affordability and performance. What sets Hostinger apart is its commitment to user-friendly tools, high-speed hosting, and 24/7 customer support, ensuring users can manage their websites with confidence.
+**Hostinger** offers a comprehensive suite of web hosting solutions, including shared hosting, WordPress hosting, cloud hosting, and more. Its services are designed to be accessible and efficient, with a focus on affordability and performance. What sets Hostinger apart is its commitment to user-friendly tools, high-speed hosting, and 24/7 customer support, ensuring users can manage their websites with confidence.
 
 Below is a detailed overview in table format for easy reference:
 
